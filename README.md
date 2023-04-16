@@ -1,5 +1,13 @@
 # Projeto Playground Functions!
 
+<details>
+  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+
+No seu time de desenvolvimento, você ficou responsável por implementar o código de funções que resolvem problemas com respostas pré-determinadas. Você pode utilizar a lógica de programação para te ajudar na análise de cada problema e resposta esperada, facilitando a implementação do código de cada uma das funções.
+
+
+</details>
+
 # Requisitos Obrigatórios
 :warning: **Leia todos os requisitos atentamente e siga à risca o que for pedido. Não altere o nome de nenhuma função** :warning:
 
